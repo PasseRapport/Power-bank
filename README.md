@@ -4,7 +4,7 @@ The objective of this project is to upcycle an old flashlight into a usb C power
 
 
 
-<img src="Power\_bank\_test.jpeg" width="400"><br>
+<img src="Test.jpeg" width="400"><br>
 
 <img src="flashlight.jpeg" width="400"><br>
 
